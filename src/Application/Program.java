@@ -1,6 +1,6 @@
 package Application;
 
-import Chess.ChessMatch;
+import chess.ChessMatch;
 
 
 public class Program {
